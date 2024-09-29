@@ -58,11 +58,3 @@ To run the chatbot with Docker:
 - **LangChain**: For powerful natural language processing capabilities.
 - **Streamlit**: For building an intuitive user interface.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request. Make sure to follow the guidelines for contributions.
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-- A special thanks to the **European Commission** for providing the AI Act document.
